@@ -1,0 +1,4 @@
+2024-12-24 13:51:32,130 - INFO - Using device: cuda
+2024-12-24 13:55:26,167 - INFO - Validation Accuracy: 65.92%
+2024-12-24 13:59:28,088 - INFO - Validation Accuracy: 65.92%
+2024-12-24 14:03:47,026 - INFO - Using device: cpu
