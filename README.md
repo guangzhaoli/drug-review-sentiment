@@ -4,6 +4,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)
 ![Gradio](https://img.shields.io/badge/Gradio-5.9x-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![Modelscope](https://img.shields.io/badge/Modelscope-space-purple)](https://www.modelscope.cn/studios/liguangzhao/Drug-Review-Sentiment-Analysis)
 
 基于深度学习的药品评论情感分析系统，可以自动分析药品评论的情感倾向（积极、中性、消极）。本项目采用 LSTM + BERT 词向量的混合架构，并提供了友好的 Web 界面。
 
